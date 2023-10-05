@@ -25,46 +25,17 @@ library(swirl)
 swirl()
 ```
 3. Начинаем выполнение перовго учебного задания Basic Building Blocks.
-<img width="636" alt="Снимок экрана 2023-10-01 в 15 25 53" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/c8613a00-5772-4ca8-b11f-b5dda1f59d4e">
-<img width="631" alt="Снимок экрана 2023-10-01 в 15 35 56" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/50aeb7cf-1500-4d87-a3cc-af118c33a332">
-<img width="638" alt="Снимок экрана 2023-10-01 в 15 36 18" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/1c6f4467-f5a8-46a8-ad15-79e71d80e492">
-<img width="638" alt="Снимок экрана 2023-10-01 в 15 37 14" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/eb5005a1-5762-4340-ae80-db509ad76bf2">
-<img width="635" alt="Снимок экрана 2023-10-01 в 15 38 33" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/1da115b5-a509-4b22-a446-45161abd7e4c">
-<img width="638" alt="Снимок экрана 2023-10-01 в 15 39 01" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/ce9ac145-04a7-4f7a-bdcf-4bed77a86196">
-<img width="635" alt="Снимок экрана 2023-10-01 в 15 40 55" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/821e8f4e-8da4-4b08-b8c4-d4412205f118">
-<img width="625" alt="Снимок экрана 2023-10-01 в 15 41 39" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/55fc41f2-2d07-487b-bbc9-d4aeafe79f50">
-<img width="642" alt="Снимок экрана 2023-10-01 в 15 42 38" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/4a53347b-a753-402d-819b-68067e2f3248">
-<img width="667" alt="Снимок экрана 2023-10-01 в 15 44 34" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/eb98e791-9335-43db-b442-e053c6f16750">
-<img width="644" alt="Снимок экрана 2023-10-01 в 15 45 38" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/3e0b6b65-d47f-4d62-8fd8-8768d62f14d4">
-<img width="631" alt="Снимок экрана 2023-10-01 в 15 46 11" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/fd806f4a-f66c-4482-a3de-a0444b2041fb">
-<img width="622" alt="Снимок экрана 2023-10-01 в 15 47 22" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/61b91a63-0d07-4ef1-ae60-df3e1d0b17c9">
+
 
 
 4. Выполяем второе учебное задание Workspace and Files.
-<img width="629" alt="Снимок экрана 2023-10-01 в 15 48 51" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/db1fed34-de6c-4b25-9df6-5c9e2521103c">
-<img width="991" alt="Снимок экрана 2023-10-01 в 15 50 27" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/616843b9-c4c8-4f73-91bc-72e8dc93a8b1">
-<img width="640" alt="Снимок экрана 2023-10-01 в 15 51 43" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/b89045a1-7820-40f7-9927-e65eb791dc7a">
-<img width="625" alt="Снимок экрана 2023-10-01 в 15 53 12" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/0263642b-5e7d-46be-b0c5-417a292924a2">
-<img width="640" alt="Снимок экрана 2023-10-01 в 15 55 00" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/f5c95a21-8ead-49e1-937f-f5440ecb3633">
-<img width="637" alt="Снимок экрана 2023-10-01 в 15 56 15" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/ab36d3a2-e717-48d5-a165-69b0cf69727f">
-<img width="626" alt="Снимок экрана 2023-10-01 в 16 00 15" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/89e89b1e-b9d8-4b68-bf0a-d3a2d0925989">
-<img width="625" alt="Снимок экрана 2023-10-01 в 16 01 18" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/77f4f198-ca48-452b-a46b-19e407327fe9">
+
 
 
 5. Выполняем третье учебное задание Sequences of Numbers.
-<img width="627" alt="Снимок экрана 2023-10-01 в 16 02 15" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/396b1da6-7d88-45f7-94b1-f9f101ba7f31">
-<img width="634" alt="Снимок экрана 2023-10-01 в 16 02 51" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/22455376-595f-4956-b531-6d50e3dd9f5f">
-<img width="622" alt="Снимок экрана 2023-10-01 в 16 03 26" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/1c98e97c-55b0-462c-b902-4aa08d937de3">
-<img width="636" alt="Снимок экрана 2023-10-01 в 16 04 10" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/51939068-6079-4d49-8b75-b2d36c0cece0">
-<img width="633" alt="Снимок экрана 2023-10-01 в 16 05 13" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/493027c6-7c89-40ae-a9bf-6668e4a9fe82">
+
 
 6. Выполняем четвертое учебное задание Vectors.
-<img width="630" alt="Снимок экрана 2023-10-01 в 16 06 06" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/fb3f09c9-2d01-4cdd-97b8-6fe1aedfb3cd">
-<img width="633" alt="Снимок экрана 2023-10-01 в 16 06 44" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/73174a94-ae20-4f74-b1c7-80acbc404484">
-<img width="639" alt="Снимок экрана 2023-10-01 в 16 07 21" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/4c87bd68-a3da-4641-b9ac-108f01a93f81">
-<img width="645" alt="Снимок экрана 2023-10-01 в 16 08 34" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/43b322fa-65e6-4a75-a0b7-b4aeb6e58c1d">
-<img width="630" alt="Снимок экрана 2023-10-01 в 16 09 34" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/792ad21d-f1b8-4527-ac35-b95fa4cf05d5">
-<img width="630" alt="Снимок экрана 2023-10-01 в 16 10 11" src="https://github.com/GavrilovaAnna/7_semester/assets/91331145/579fa602-23e4-4c71-bcc8-6f167965d514">
 
 
 ## Вывод
