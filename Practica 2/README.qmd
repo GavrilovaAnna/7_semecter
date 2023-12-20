@@ -91,7 +91,7 @@ starwars %>% mutate("ИМТ" = mass/(height*height)) %>% select(name,ИМТ)
 starwars %>% mutate("Вытянутость" = mass/height) %>% arrange(desc(Вытянутость)) %>% slice(1:10) %>% select(name,Вытянутость)
 ```
 
-10\. Найти средний возраст персонажей каждой расы вселенной Звездных войн
+10. Найти средний возраст персонажей каждой расы вселенной Звездных войн
 
 ```{r}
 starwars %>%  group_by(species) %>% filter(!is.na(birth_year)) %>% summarise('Среднее' = mean(birth_year)) %>% select(species, Среднее) 
