@@ -28,12 +28,7 @@
 
 2.  Скачиваем пакет dplyr  
    <img width="418" alt="Снимок экрана 2023-11-05 в 16 53 01" src="https://github.com/GavrilovaAnna/7_semecter_/assets/91331145/5bce1b89-cf4f-49d7-9ac7-ad03de8f441e">
-ibrary(dplyr)
-Присоединяю пакет: 'dplyr'
-Следующие объекты скрыты от 'package:stats':
-    filter, lag
-Следующие объекты скрыты от 'package:base':
-    intersect, setdiff, setequal, union
+
 4.  Сколько строк и столцов в датафрейме?
 <img width="171" alt="Снимок экрана 2023-11-05 в 16 57 26" src="https://github.com/GavrilovaAnna/7_semecter_/assets/91331145/143e0cb2-fc30-467a-b353-2a553b592892">
 
