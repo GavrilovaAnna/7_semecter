@@ -29,17 +29,9 @@ editor: visual
 
 2.  Скачиваем пакет dplyr
 
-    \>library(dplyr)
-
-    Attaching package: 'dplyr'
-
-    The following objects are masked from 'package:stats':
-
-    filter, lag
-
-    The following objects are masked from 'package:base':
-
-    intersect, setdiff, setequal, union
+```{r}         
+install.packages("dplyr")
+```
 
 3.  Сколько строк и столбцо в датафрейме?
 
